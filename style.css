@@ -224,7 +224,7 @@ form .btn2{
 @media only screen and (max-width: 600px) {
 
     .h {
-        background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, .6588235294), rgba(255, 255, 255, .3098039216) 90%), url(homehero.webp);
+        background-image: linear-gradient(to right, #fff, rgba(255, 255, 255, .6588235294), rgba(255, 255, 255, .3098039216) 90%), url(bgf.jpg);
         height: 500px;
         background-position: right;
     }
